@@ -1,7 +1,16 @@
 ﻿using System;
 
-class App {
-    public static void Main(string[] args) {
-        Console.WriteLine("Hello");
+namespace appConceitos
+{
+    class App 
+    {
+        public static void Main(string[] args) 
+        {
+            // Instancia uma instancia 
+            Person obj = new Person();
+            obj.nome = "Ian";
+            obj.idade = 19;
+            obj.msg();
+        }
     }
 }
