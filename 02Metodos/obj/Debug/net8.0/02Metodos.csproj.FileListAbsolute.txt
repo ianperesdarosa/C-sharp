@@ -1,0 +1,15 @@
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\02Metodos\bin\Debug\net8.0\02Metodos.exe
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\02Metodos\bin\Debug\net8.0\02Metodos.deps.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\02Metodos\bin\Debug\net8.0\02Metodos.runtimeconfig.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\02Metodos\bin\Debug\net8.0\02Metodos.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\02Metodos\bin\Debug\net8.0\02Metodos.pdb
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\02Metodos\obj\Debug\net8.0\02Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\02Metodos\obj\Debug\net8.0\02Metodos.AssemblyInfoInputs.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\02Metodos\obj\Debug\net8.0\02Metodos.AssemblyInfo.cs
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\02Metodos\obj\Debug\net8.0\02Metodos.csproj.CoreCompileInputs.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\02Metodos\obj\Debug\net8.0\02Metodos.sourcelink.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\02Metodos\obj\Debug\net8.0\02Metodos.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\02Metodos\obj\Debug\net8.0\refint\02Metodos.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\02Metodos\obj\Debug\net8.0\02Metodos.pdb
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\02Metodos\obj\Debug\net8.0\02Metodos.genruntimeconfig.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\02Metodos\obj\Debug\net8.0\ref\02Metodos.dll

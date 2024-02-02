@@ -2,11 +2,11 @@
 
 namespace appConceitos
 {
-    class App 
+    class Program
     {
         public static void Main(string[] args) 
         {
-            // Instancia uma instancia 
+            // Instanciando um objeto
             Person obj = new Person();
             obj.nome = "Ian";
             obj.idade = 19;
