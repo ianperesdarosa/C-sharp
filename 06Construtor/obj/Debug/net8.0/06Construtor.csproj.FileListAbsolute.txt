@@ -1,0 +1,15 @@
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\06Construtor\obj\Debug\net8.0\06Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\06Construtor\obj\Debug\net8.0\06Construtor.AssemblyInfoInputs.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\06Construtor\obj\Debug\net8.0\06Construtor.AssemblyInfo.cs
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\06Construtor\obj\Debug\net8.0\06Construtor.csproj.CoreCompileInputs.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\06Construtor\obj\Debug\net8.0\06Construtor.sourcelink.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\06Construtor\bin\Debug\net8.0\06Construtor.exe
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\06Construtor\bin\Debug\net8.0\06Construtor.deps.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\06Construtor\bin\Debug\net8.0\06Construtor.runtimeconfig.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\06Construtor\bin\Debug\net8.0\06Construtor.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\06Construtor\bin\Debug\net8.0\06Construtor.pdb
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\06Construtor\obj\Debug\net8.0\06Construtor.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\06Construtor\obj\Debug\net8.0\refint\06Construtor.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\06Construtor\obj\Debug\net8.0\06Construtor.pdb
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\06Construtor\obj\Debug\net8.0\06Construtor.genruntimeconfig.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\06Construtor\obj\Debug\net8.0\ref\06Construtor.dll

@@ -1,0 +1,15 @@
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\07Get_Set\obj\Debug\net8.0\07Get_Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\07Get_Set\obj\Debug\net8.0\07Get_Set.AssemblyInfoInputs.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\07Get_Set\obj\Debug\net8.0\07Get_Set.AssemblyInfo.cs
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\07Get_Set\obj\Debug\net8.0\07Get_Set.csproj.CoreCompileInputs.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\07Get_Set\obj\Debug\net8.0\07Get_Set.sourcelink.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\07Get_Set\bin\Debug\net8.0\07Get_Set.exe
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\07Get_Set\bin\Debug\net8.0\07Get_Set.deps.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\07Get_Set\bin\Debug\net8.0\07Get_Set.runtimeconfig.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\07Get_Set\bin\Debug\net8.0\07Get_Set.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\07Get_Set\bin\Debug\net8.0\07Get_Set.pdb
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\07Get_Set\obj\Debug\net8.0\07Get_Set.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\07Get_Set\obj\Debug\net8.0\refint\07Get_Set.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\07Get_Set\obj\Debug\net8.0\07Get_Set.pdb
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\07Get_Set\obj\Debug\net8.0\07Get_Set.genruntimeconfig.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\07Get_Set\obj\Debug\net8.0\ref\07Get_Set.dll
