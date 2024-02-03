@@ -1,0 +1,15 @@
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\05Encap\obj\Debug\net8.0\05Encap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\05Encap\obj\Debug\net8.0\05Encap.AssemblyInfoInputs.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\05Encap\obj\Debug\net8.0\05Encap.AssemblyInfo.cs
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\05Encap\obj\Debug\net8.0\05Encap.csproj.CoreCompileInputs.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\05Encap\obj\Debug\net8.0\05Encap.sourcelink.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\05Encap\bin\Debug\net8.0\05Encap.exe
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\05Encap\bin\Debug\net8.0\05Encap.deps.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\05Encap\bin\Debug\net8.0\05Encap.runtimeconfig.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\05Encap\bin\Debug\net8.0\05Encap.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\05Encap\bin\Debug\net8.0\05Encap.pdb
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\05Encap\obj\Debug\net8.0\05Encap.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\05Encap\obj\Debug\net8.0\refint\05Encap.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\05Encap\obj\Debug\net8.0\05Encap.pdb
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\05Encap\obj\Debug\net8.0\05Encap.genruntimeconfig.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\05Encap\obj\Debug\net8.0\ref\05Encap.dll
