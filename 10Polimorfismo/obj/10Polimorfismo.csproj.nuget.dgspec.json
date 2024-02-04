@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ianpe\\OneDrive\\Documentos\\Repository\\C-sharp\\09Heranca\\08Heranca.csproj": {}
+    "C:\\Users\\ianpe\\OneDrive\\Documentos\\Repository\\C-sharp\\10Polimorfismo\\10Polimorfismo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ianpe\\OneDrive\\Documentos\\Repository\\C-sharp\\09Heranca\\08Heranca.csproj": {
+    "C:\\Users\\ianpe\\OneDrive\\Documentos\\Repository\\C-sharp\\10Polimorfismo\\10Polimorfismo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ianpe\\OneDrive\\Documentos\\Repository\\C-sharp\\09Heranca\\08Heranca.csproj",
-        "projectName": "08Heranca",
-        "projectPath": "C:\\Users\\ianpe\\OneDrive\\Documentos\\Repository\\C-sharp\\09Heranca\\08Heranca.csproj",
+        "projectUniqueName": "C:\\Users\\ianpe\\OneDrive\\Documentos\\Repository\\C-sharp\\10Polimorfismo\\10Polimorfismo.csproj",
+        "projectName": "10Polimorfismo",
+        "projectPath": "C:\\Users\\ianpe\\OneDrive\\Documentos\\Repository\\C-sharp\\10Polimorfismo\\10Polimorfismo.csproj",
         "packagesPath": "C:\\Users\\ianpe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ianpe\\OneDrive\\Documentos\\Repository\\C-sharp\\09Heranca\\obj\\",
+        "outputPath": "C:\\Users\\ianpe\\OneDrive\\Documentos\\Repository\\C-sharp\\10Polimorfismo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ianpe\\AppData\\Roaming\\NuGet\\NuGet.Config",

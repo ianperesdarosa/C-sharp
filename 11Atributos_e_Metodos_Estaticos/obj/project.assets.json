@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ianpe\\OneDrive\\Documentos\\Repository\\C-sharp\\09Heranca\\08Heranca.csproj",
-      "projectName": "08Heranca",
-      "projectPath": "C:\\Users\\ianpe\\OneDrive\\Documentos\\Repository\\C-sharp\\09Heranca\\08Heranca.csproj",
+      "projectUniqueName": "C:\\Users\\ianpe\\OneDrive\\Documentos\\Repository\\C-sharp\\11Atributos_e_Metodos_Estaticos\\11Atributos_e_Metodos_Estaticos.csproj",
+      "projectName": "11Atributos_e_Metodos_Estaticos",
+      "projectPath": "C:\\Users\\ianpe\\OneDrive\\Documentos\\Repository\\C-sharp\\11Atributos_e_Metodos_Estaticos\\11Atributos_e_Metodos_Estaticos.csproj",
       "packagesPath": "C:\\Users\\ianpe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ianpe\\OneDrive\\Documentos\\Repository\\C-sharp\\09Heranca\\obj\\",
+      "outputPath": "C:\\Users\\ianpe\\OneDrive\\Documentos\\Repository\\C-sharp\\11Atributos_e_Metodos_Estaticos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ianpe\\AppData\\Roaming\\NuGet\\NuGet.Config",

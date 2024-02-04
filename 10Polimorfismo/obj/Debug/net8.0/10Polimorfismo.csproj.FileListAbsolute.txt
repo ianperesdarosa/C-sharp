@@ -1,0 +1,15 @@
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\10Polimorfismo\obj\Debug\net8.0\10Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\10Polimorfismo\obj\Debug\net8.0\10Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\10Polimorfismo\obj\Debug\net8.0\10Polimorfismo.AssemblyInfo.cs
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\10Polimorfismo\obj\Debug\net8.0\10Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\10Polimorfismo\obj\Debug\net8.0\10Polimorfismo.sourcelink.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\10Polimorfismo\bin\Debug\net8.0\10Polimorfismo.exe
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\10Polimorfismo\bin\Debug\net8.0\10Polimorfismo.deps.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\10Polimorfismo\bin\Debug\net8.0\10Polimorfismo.runtimeconfig.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\10Polimorfismo\bin\Debug\net8.0\10Polimorfismo.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\10Polimorfismo\bin\Debug\net8.0\10Polimorfismo.pdb
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\10Polimorfismo\obj\Debug\net8.0\10Polimorfismo.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\10Polimorfismo\obj\Debug\net8.0\refint\10Polimorfismo.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\10Polimorfismo\obj\Debug\net8.0\10Polimorfismo.pdb
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\10Polimorfismo\obj\Debug\net8.0\10Polimorfismo.genruntimeconfig.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\10Polimorfismo\obj\Debug\net8.0\ref\10Polimorfismo.dll
