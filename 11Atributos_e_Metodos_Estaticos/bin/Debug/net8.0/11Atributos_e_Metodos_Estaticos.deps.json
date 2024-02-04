@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "11Atributos_e_Metodos_Estaticos/1.0.0": {
+        "runtime": {
+          "11Atributos_e_Metodos_Estaticos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11Atributos_e_Metodos_Estaticos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\11Atributos_e_Metodos_Estaticos\obj\Debug\net8.0\11Atributos_e_Metodos_Estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\11Atributos_e_Metodos_Estaticos\obj\Debug\net8.0\11Atributos_e_Metodos_Estaticos.AssemblyInfoInputs.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\11Atributos_e_Metodos_Estaticos\obj\Debug\net8.0\11Atributos_e_Metodos_Estaticos.AssemblyInfo.cs
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\11Atributos_e_Metodos_Estaticos\obj\Debug\net8.0\11Atributos_e_Metodos_Estaticos.csproj.CoreCompileInputs.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\11Atributos_e_Metodos_Estaticos\obj\Debug\net8.0\11Atributos_e_Metodos_Estaticos.sourcelink.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\11Atributos_e_Metodos_Estaticos\bin\Debug\net8.0\11Atributos_e_Metodos_Estaticos.exe
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\11Atributos_e_Metodos_Estaticos\bin\Debug\net8.0\11Atributos_e_Metodos_Estaticos.deps.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\11Atributos_e_Metodos_Estaticos\bin\Debug\net8.0\11Atributos_e_Metodos_Estaticos.runtimeconfig.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\11Atributos_e_Metodos_Estaticos\bin\Debug\net8.0\11Atributos_e_Metodos_Estaticos.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\11Atributos_e_Metodos_Estaticos\bin\Debug\net8.0\11Atributos_e_Metodos_Estaticos.pdb
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\11Atributos_e_Metodos_Estaticos\obj\Debug\net8.0\11Atributos_e_Metodos_Estaticos.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\11Atributos_e_Metodos_Estaticos\obj\Debug\net8.0\refint\11Atributos_e_Metodos_Estaticos.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\11Atributos_e_Metodos_Estaticos\obj\Debug\net8.0\11Atributos_e_Metodos_Estaticos.pdb
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\11Atributos_e_Metodos_Estaticos\obj\Debug\net8.0\11Atributos_e_Metodos_Estaticos.genruntimeconfig.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\11Atributos_e_Metodos_Estaticos\obj\Debug\net8.0\ref\11Atributos_e_Metodos_Estaticos.dll
