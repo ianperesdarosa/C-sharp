@@ -1,0 +1,15 @@
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\08This\bin\Debug\net8.0\08This.exe
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\08This\bin\Debug\net8.0\08This.deps.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\08This\bin\Debug\net8.0\08This.runtimeconfig.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\08This\bin\Debug\net8.0\08This.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\08This\bin\Debug\net8.0\08This.pdb
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\08This\obj\Debug\net8.0\08This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\08This\obj\Debug\net8.0\08This.AssemblyInfoInputs.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\08This\obj\Debug\net8.0\08This.AssemblyInfo.cs
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\08This\obj\Debug\net8.0\08This.csproj.CoreCompileInputs.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\08This\obj\Debug\net8.0\08This.sourcelink.json
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\08This\obj\Debug\net8.0\08This.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\08This\obj\Debug\net8.0\refint\08This.dll
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\08This\obj\Debug\net8.0\08This.pdb
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\08This\obj\Debug\net8.0\08This.genruntimeconfig.cache
+C:\Users\ianpe\OneDrive\Documentos\Repository\C-sharp\08This\obj\Debug\net8.0\ref\08This.dll
